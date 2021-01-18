@@ -8,9 +8,9 @@ Before submitting this PR, please **make sure the following conditions are met**
   ```
   - [Name](http://homepage/) - Short description. ([Source Code](http://url.of/source/code)) `License`
   ```
-  
+
   If the project does not have a homepage, use the following format:
-  
+
   ```
   - [Name](http://url.of/source/code) - Short description. `License`
   ```
