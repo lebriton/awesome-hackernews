@@ -6,6 +6,8 @@
 
 This is a curated list of tools that aim to improve the general Hacker News experience, in any shape or form.
 
+See [Contributing](.github/contributing.md).
+
 Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
 
 ---
@@ -25,3 +27,9 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
 
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+
+---
+
+## Contributing
+
+Contributing guidelines can be found in [.github/contributing.md](.github/contributing.md).
