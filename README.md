@@ -15,6 +15,7 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 - List
   - [Embeddables](#embeddables)
   - [Web Extensions](#web-extensions)
+- [Contributing](#contributing)
 
 ---
 
