@@ -22,6 +22,6 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 
 ## Web Extensions
 
-- [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT` - `Chrome`
+- [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
 
-- [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT` - `Chrome,Firefox`
+- [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
