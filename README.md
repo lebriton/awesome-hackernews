@@ -26,8 +26,8 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 ## Web Extensions
 
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
-
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `no license`
 
 ---
 
