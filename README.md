@@ -4,7 +4,7 @@
 
 **[Hacker News](https://news.ycombinator.com/)** is a social news website focusing on computer technologies, hacking and startups. It promotes any content likely to "gratify the intellectual curiosity" of readers.
 
-This is a curated list of tools that aim to improve the general Hacker News experience, in any shape or form.
+This is a curated list of [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) tools that aim to improve the general Hacker News experience, in any shape or form.
 
 See [Contributing](.github/contributing.md).
 
