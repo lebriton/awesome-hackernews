@@ -21,12 +21,12 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 
 ## Embeddables
 
-- [ycomments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `no license`
+- [ycomments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
 
 ## Web Extensions
 
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
-- [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `no license`
+- [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
 
 ---
