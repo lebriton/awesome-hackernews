@@ -13,6 +13,11 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 ---
 
 - List
+  - [Clients](#clients)
+    - [CLI](#cli)
+    - [Desktop](#desktop)
+    - [Smartphone Applications](#smartphone-applications)
+      - [iOS](#ios)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
@@ -21,6 +26,26 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 - [Contributing](#contributing)
 
 ---
+
+## Clients
+
+### CLI
+
+- [CLHN](https://github.com/nichochar/CLHN) - Command Line application to see Hacker News stories. `no license`
+- [hackernews](https://github.com/mtharrison/hackernews) - A command line tool to print out the latest posts on Hacker News to your terminal. `no license`
+- [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI). `Apache-2.0`
+- [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse Hacker News. `MIT`
+- [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
+
+### Desktop
+
+- [hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
+
+### Smartphone Applications
+
+#### iOS
+
+- [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `no license`
 
 ## Embeddables
 
