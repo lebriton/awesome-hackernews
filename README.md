@@ -69,13 +69,13 @@ _Entries found in more than one section (i.e. duplicates) are marked with a 📋
 - [HN Favourite Users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
 - [HN Unread Comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - A Google Chrome extension that shows unread comments on Hacker News. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
 - 📋 [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
-- 📋 [What Hacker News Says](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- 📋 [What Hacker News Says](https://chrome.google.com/webstore/detail/what-hacker-news-says/khgegkjchclhgpglloficdmdannlpmoi) - Easily find Hacker News discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
 ### Firefox
 
 - [Hacker News Discussion Button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
 - 📋 [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
-- 📋 [What Hacker News Says](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- 📋 [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find Hacker News discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
 ---
 
