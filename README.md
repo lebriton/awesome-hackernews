@@ -15,6 +15,8 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 - List
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
+  - [Libraries](#libraries)
+    - [Python](#python)
   - [Web Extensions](#web-extensions)
 - [Contributing](#contributing)
 
@@ -27,6 +29,12 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 ## Feeds
 
 - [hnrss](https://hnrss.github.io/) - Custom, realtime RSS feeds for Hacker News. ([Source Code](https://github.com/hnrss/hnrss)) `no license`
+
+## Libraries
+
+### Python
+
+- [asyncio-hn](https://github.com/itielshwartz/asyncio-hn) - Python (asyncio) wrapper for hackernews api. `MIT`
 
 ## Web Extensions
 
