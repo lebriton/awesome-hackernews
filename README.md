@@ -16,8 +16,6 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
   - [Clients](#clients)
     - [CLI](#cli)
     - [Desktop](#desktop)
-    - [Smartphone Applications](#smartphone-applications)
-      - [iOS](#ios)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
@@ -44,12 +42,6 @@ _Entries found in more than one section are marked with a ⭐._
 ### Desktop
 
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
-
-### Smartphone Applications
-
-#### iOS
-
-- [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `no license`
 
 ## Embeddables
 
