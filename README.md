@@ -69,6 +69,7 @@ _Entries found in more than one section are marked with a ⭐._
 
 ### Chrome
 
+- [Hackercut](https://chrome.google.com/webstore/detail/hacker-news-shortcut/dmiimkldokblocpmleogaeohkbffnobo) - A Chrome extension that powers full keyboard navigation of Hacker News. ([Source Code](https://github.com/AsyncMoksha/hackercut)) `no license`
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
 - [hn-favourite-users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
 - [hn-notification-plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
