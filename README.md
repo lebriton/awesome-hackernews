@@ -36,14 +36,14 @@ _Entries found in more than one section are marked with a ⭐._
 ### CLI
 
 - [CLHN](https://github.com/nichochar/CLHN) - Command Line application to see Hacker News stories. `no license`
-- [hackernews](https://github.com/mtharrison/hackernews) - A command line tool to print out the latest posts on Hacker News to your terminal. `no license`
+- [hackernews cli](https://github.com/mtharrison/hackernews) - A command line tool to print out the latest posts on Hacker News to your terminal. `no license`
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI). `Apache-2.0`
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse Hacker News. `MIT`
 - [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
 
 ### Desktop
 
-- [hackup](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
+- [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
 
 ### Smartphone Applications
 
@@ -53,11 +53,11 @@ _Entries found in more than one section are marked with a ⭐._
 
 ## Embeddables
 
-- [ycomments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
+- [YComments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
 
 ## Feeds
 
-- [hnrss](https://hnrss.github.io/) - Custom, realtime RSS feeds for Hacker News. ([Source Code](https://github.com/hnrss/hnrss)) `no license`
+- [Hacker News RSS](https://hnrss.github.io/) - Custom, realtime RSS feeds for Hacker News. ([Source Code](https://github.com/hnrss/hnrss)) `no license`
 
 ## Libraries
 
@@ -69,19 +69,19 @@ _Entries found in more than one section are marked with a ⭐._
 
 ### Chrome
 
+- [Hacker News Comment Highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
+- [Hacker News Comments Notifier Plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
 - [Hackercut](https://chrome.google.com/webstore/detail/hacker-news-shortcut/dmiimkldokblocpmleogaeohkbffnobo) - A Chrome extension that powers full keyboard navigation of Hacker News. ([Source Code](https://github.com/AsyncMoksha/hackercut)) `no license`
-- [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
-- [hn-favourite-users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
-- [hn-notification-plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
-- [hn-unread-comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - A Google Chrome extension that shows unread comments on Hacker News. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
-- ⭐ [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
-- ⭐ [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- [HN Favourite Users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
+- [HN Unread Comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - A Google Chrome extension that shows unread comments on Hacker News. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
+- ⭐ [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- ⭐ [What Hacker News Says](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
 
 ### Firefox
 
-- [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
-- ⭐ [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
-- ⭐ [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- [Hacker News Discussion Button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
+- ⭐ [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- ⭐ [What Hacker News Says](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
 
 ---
 
