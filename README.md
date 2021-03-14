@@ -23,9 +23,13 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
   - [Libraries](#libraries)
     - [Python](#python)
   - [Web Extensions](#web-extensions)
+    - [Chrome](#chrome)
+    - [Firefox](#firefox)
 - [Contributing](#contributing)
 
 ---
+
+_Entries found in more than one section are marked with a ✨._
 
 ## Clients
 
@@ -63,11 +67,18 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 
 ## Web Extensions
 
-- [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
+### Chrome
+
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
 - [hn-notification-plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
-- [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
-- [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+- ✨ [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- ✨ [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
+
+### Firefox
+
+- [hackernews-button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
+- ✨ [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- ✨ [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
 
 ---
 
