@@ -10,6 +10,8 @@ See [Contributing](.github/contributing.md).
 
 Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
 
+You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news), a complementary list which is not focused on FOSS.
+
 ---
 
 - List
