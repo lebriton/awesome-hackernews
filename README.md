@@ -14,6 +14,7 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 
 - List
   - [Embeddables](#embeddables)
+  - [Feeds](#feeds)
   - [Web Extensions](#web-extensions)
 - [Contributing](#contributing)
 
@@ -22,6 +23,10 @@ Inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-s
 ## Embeddables
 
 - [ycomments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
+
+## Feeds
+
+- [hnrss](https://hnrss.github.io/) - Custom, realtime RSS feeds for Hacker News ([Source Code](https://github.com/hnrss/hnrss)) `no license`
 
 ## Web Extensions
 
