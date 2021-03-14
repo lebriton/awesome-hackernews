@@ -61,8 +61,8 @@ _Entries found in more than one section are marked with a ⭐._
 
 ### Chrome
 
-- [Hacker News Comment Highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
-- [Hacker News Comments Notifier Plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
+- [Hacker News Comment Highlighter](https://chrome.google.com/webstore/detail/hacker-news-comment-highl/acgehogfllndeafpieloojhdmpffbjnb) - Chrome extension for highlighting unread comments in Hacker News threads. ([Source Code](https://github.com/jbergknoff/hn-comment-highlighter)) `MIT`
+- [Hacker News Comments Notifier Plugin](https://chrome.google.com/webstore/detail/hacker-news-comments-noti/fcdogcdfbjpnhcnflhdpcdfjmmiedebo) - HN plugin to get notifications on articles subscribed. ([Source Code](https://github.com/binomads/hn-notification-plugin)) `MIT`
 - [Hackercut](https://chrome.google.com/webstore/detail/hacker-news-shortcut/dmiimkldokblocpmleogaeohkbffnobo) - A Chrome extension that powers full keyboard navigation of Hacker News. ([Source Code](https://github.com/AsyncMoksha/hackercut)) `no license`
 - [HN Favourite Users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
 - [HN Unread Comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - A Google Chrome extension that shows unread comments on Hacker News. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
