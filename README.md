@@ -72,6 +72,7 @@ _Entries found in more than one section are marked with a ⭐._
 - [hn-comment-highlighter](https://github.com/jbergknoff/hn-comment-highlighter) - Chrome extension for highlighting unread comments in Hacker News threads. `MIT`
 - [hn-favourite-users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users on Hacker News. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
 - [hn-notification-plugin](https://github.com/binomads/hn-notification-plugin) - HN plugin to get notifications on articles subscribed. `MIT`
+- [hn-unread-comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - A Google Chrome extension that shows unread comments on Hacker News. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
 - ⭐ [newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - ⭐ [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're currently browsing. `MIT`
 
