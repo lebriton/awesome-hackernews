@@ -4,6 +4,10 @@ Before submitting this PR, please **make sure the following conditions are met**
 - [ ] The pull request concerns only one project<sup>1</sup>.
 - [ ] This project is classified as [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 - [ ] The pull request title is "Add &lt;xxx&gt; to &lt;yyy&gt;", which means adding project &lt;xxx&gt; to section &lt;yyy&gt;.<sup>2</sup>
+  
+  Examples:
+  - "Add My Project to Embeddables"
+  - "Add My Project to Libraries/Python", for nested sections
 - [ ] Your addition satisfy the following formatting<sup>3</sup>:
 
   ```
