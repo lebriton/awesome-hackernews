@@ -45,6 +45,10 @@ _Entries found in more than one section (i.e. duplicates) are marked with a 📋
 
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
 
+### SQL
+
+- [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query Hacker News using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
+
 ## Embeddables
 
 - [YComments](https://ycomments.benwinding.com/) - Automatic links to Hacker News discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
