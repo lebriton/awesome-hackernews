@@ -43,6 +43,7 @@ _Entries found in more than one section (i.e. duplicates) are marked with a 📋
 
 ### Desktop
 
+- [Hacker Menu](https://github.com/owenthereal/hacker-menu) - Read Hacker News from your macOS menubar. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
 
 ## Embeddables
