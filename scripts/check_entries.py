@@ -3,10 +3,6 @@
 import re, sys
 
 _anything_regex = r"(.+)"
-# from https://www.urlregex.com/
-url_regex = re.compile(
-    r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
-)
 format_1_regex = re.compile(
     r"^- \[%s\]\(%s\) - %s\. \(\[Source Code\]\(%s\)\) `%s`$" % ((_anything_regex,) * 5)
 )
