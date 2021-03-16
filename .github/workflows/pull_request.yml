@@ -8,7 +8,7 @@ on:
       - synchronize # commit(s) pushed to the pull request
 
 jobs:
-  check_list_format:
+  check_entries:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
 
   # https://github.com/dkhamsing/awesome_bot/blob/f11dd8952cb9df441796983b08e29a4924176857/README.md#github-actions
   awesome_bot:
-    needs: check_list_format
+    needs: check_entries
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
