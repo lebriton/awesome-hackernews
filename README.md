@@ -79,7 +79,7 @@ _Entries found in more than one section (i.e. duplicates) are marked with a 📋
 
 ### Firefox
 
-- [Hacker News Discussion Button](https://github.com/jstrieb/hackernews-button) - Privacy-preserving Firefox extension linking to Hacker News discussion. `GPL-3.0`
+- [Hacker News Discussion Button](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-discussion-button/) - Privacy-preserving Firefox extension linking to Hacker News discussion. ([Source Code](https://github.com/jstrieb/hackernews-button)) `GPL-3.0`
 - 📋 [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - 📋 [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find Hacker News discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
