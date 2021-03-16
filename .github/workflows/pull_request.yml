@@ -1,0 +1,25 @@
+name: Pull request
+
+on:
+  pull_request:
+    branches: [ main ]
+    types:
+      - opened # pull request is created
+      - synchronize # commit(s) pushed to the pull request
+
+jobs:
+  # https://github.com/dkhamsing/awesome_bot/blob/f11dd8952cb9df441796983b08e29a4924176857/README.md#github-actions
+  awesome_bot:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Checks
+      run: |
+        ruby .github/osia_convert.rb
+        gem install awesome_bot
+        ruby .github/osia_get_links.rb
+        awesome_bot README.md
