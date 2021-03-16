@@ -32,4 +32,4 @@ jobs:
         ruby .github/osia_convert.rb
         gem install awesome_bot
         ruby .github/osia_get_links.rb
-        awesome_bot README.md
+        awesome_bot --allow-dupe -w https://awesome.re README.md
