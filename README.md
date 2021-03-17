@@ -18,6 +18,9 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Clients](#clients)
     - [CLI](#cli)
     - [Desktop](#desktop)
+    - [Smartphone Apps](#smartphone-apps)
+      - [Android](#android)
+      - [iOS](#ios)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
@@ -48,6 +51,16 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ### SQL
 
 - [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query Hacker News using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
+
+### Smartphone Apps
+
+#### Android
+
+- [HackerWeb](https://play.google.com/store/apps/details?id=cheeaun.hackerweb) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `MIT`
+
+#### iOS
+
+- [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `MIT`
 
 ## Embeddables
 
