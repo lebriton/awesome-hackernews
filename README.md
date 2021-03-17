@@ -56,11 +56,11 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 #### Android
 
-- [HackerWeb](https://play.google.com/store/apps/details?id=cheeaun.hackerweb) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `MIT`
+- [HackerWeb](https://play.google.com/store/apps/details?id=cheeaun.hackerweb) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
 
 #### iOS
 
-- [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb-native-2)) `MIT`
+- [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
 
 ## Embeddables
 
