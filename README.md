@@ -26,6 +26,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
     - [Chrome](#chrome)
     - [Firefox](#firefox)
 - [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -86,3 +87,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ## Contributing
 
 Contributing guidelines can be found in [.github/contributing.md](.github/contributing.md).
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
