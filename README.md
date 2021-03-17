@@ -52,7 +52,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 - [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query Hacker News using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
 
-### Smartphone Apps
+### Smartphone Apps
 
 #### Android
 
