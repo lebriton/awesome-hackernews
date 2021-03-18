@@ -47,4 +47,4 @@ if errors:
         print(e)
     sys.exit(1)
 
-print("All entries seem to be correctly formatted.")
+print("All entries appear to be formatted correctly.")
