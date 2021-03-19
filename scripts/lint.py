@@ -1,12 +1,16 @@
 import re, sys
 from collections import defaultdict
+from urllib.parse import urlparse
 
 
 _anything_regex = r"(.+)"
 format_1_regex = re.compile(
     r"^- \[%s\]\(%s\) - %s\. \(\[Source Code\]\(%s\)\) `%s`$" % ((_anything_regex,) * 5)
 )
-format_2_regex = re.compile(r"^- \[%s\]\(%s\) - %s\. `%s`$" % ((_anything_regex,) * 4))
+# Note: a 4th "fake" group is added to match the groups of the previous regex. This helps to simplify the code.
+format_2_regex = re.compile(
+    r"^- \[%s\]\(%s\) - %s\. ()`%s`$" % ((_anything_regex,) * 4)
+)
 
 
 def parse_readme():
@@ -39,17 +43,22 @@ def lint_entry(entry):
     # BBB: walrus operator
     m = format_1_regex.match(line) or format_2_regex.match(line)
     if m:
-        name = m.group(1)
-        if hasattr(lint_entry, "previous_name"):
-            if name.lower() < lint_entry.previous_name.lower():
-                yield "l%s: entry is not inserted correctly in case-insensitive alphabetical order (compared to l%s)" % (
+        # TODO: lint name, description, license
+        name, url, description, code_url, license = m.groups()
+
+        if hasattr(lint_entry, "previous_line"):
+            if line.lower() < lint_entry.previous_line.lower():
+                yield "l%s: The entry is not inserted correctly in case-insensitive alphabetical order (compared to l%s)" % (
                     line_number,
                     line_number - 1,
                 )
-        # XXX: using this is a bit hacky
-        lint_entry.previous_name = name
+        # XXX: using this is a bit hacky (anti-pattern?)
+        lint_entry.previous_line = line
+
+        if urlparse(url) == urlparse(code_url):
+            yield "l%s: The Source Code URL is a duplicate of the main URL" % line_number
     else:
-        yield "l%s: entry is not formatted correctly" % line_number
+        yield "l%s: The entry is not formatted correctly" % line_number
 
 
 def lint():
@@ -58,7 +67,7 @@ def lint():
     for section_name, sublist in parse_readme().items():
         for entry in sublist:
             errors.extend(lint_entry(entry))
-        del lint_entry.previous_name
+        del lint_entry.previous_line
 
     if errors:
         for e in errors:
