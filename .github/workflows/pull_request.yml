@@ -16,20 +16,3 @@ jobs:
       with:
         python-version: '3.x'
     - run: python scripts/lint.py
-
-  # https://github.com/dkhamsing/awesome_bot/blob/f11dd8952cb9df441796983b08e29a4924176857/README.md#github-actions
-  awesome_bot:
-    needs: lint
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.x
-    - name: Checks
-      run: |
-        ruby .github/osia_convert.rb
-        gem install awesome_bot
-        ruby .github/osia_get_links.rb
-        awesome_bot --allow-dupe -w https://awesome.re README.md
