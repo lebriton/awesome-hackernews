@@ -34,4 +34,5 @@ Before submitting this PR, please **make sure the following conditions are met**
 ---
 
 A custom linter is automatically invoked via GitHub actions. If any errors are found, be sure to correct them.
+
 **⚠️ No review will be done on the PR as long as it contains errors found by the linter.**
