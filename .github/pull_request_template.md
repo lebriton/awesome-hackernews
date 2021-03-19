@@ -30,3 +30,8 @@ Before submitting this PR, please **make sure the following conditions are met**
 <sup>1</sup>: If you want to submit multiple projects, please open one PR per project.<br>
 <sup>2</sup>: If the project does not fit into an already existing section, i.e. a new one must be created, do not hesitate to create it. We'll discuss that in the comments below.<br>
 <sup>3</sup>: [`scripts/format_entry.sh`](https://github.com/bminusl/awesome-hackernews/blob/main/scripts/format_entry.sh) can be invoked to help you.
+
+---
+
+A custom linter is automatically invoked via GitHub actions. If any errors are found, be sure to correct them.
+**⚠️ No review will be done on the PR as long as it contains errors found by the linter.**
