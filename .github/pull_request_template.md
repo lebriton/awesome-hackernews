@@ -20,7 +20,7 @@ Before submitting this PR, please **make sure the following conditions are met**
   - [Name](http://url.of/source/code) - Short description. `License`
   ```
 
-- [ ] Your addition is inserted in alphabetical order in the list.
+- [ ] Your addition is inserted in alphabetical order in the list (case-insensitive).
 - [ ] You have searched the repository for any relevant issues or PRs, including closed ones.
 
 **If you have any questions or would like to provide more information regarding your PR, please use the comments section below.**
