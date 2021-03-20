@@ -1,5 +1,7 @@
 # Contributing
 
+## Add a new project to the list
+
 All instructions for adding a new project to the list are enumerated in [.github/pull_request_template.md](pull_request_template.md).
 
 Anyway, here is the general procedure to follow:
@@ -16,3 +18,9 @@ Anyway, here is the general procedure to follow:
 Repeat these steps for each project to add.
 
 **Be rigorous and responsive for a smooth review process.**
+
+## Other
+
+In general, any help is welcome.
+
+Have a look at issues labeled with [`help wanted`](https://github.com/bminusl/awesome-hackernews/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
