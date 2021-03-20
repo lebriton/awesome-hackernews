@@ -18,6 +18,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Clients](#clients)
     - [CLI](#cli)
     - [Desktop](#desktop)
+    - [SQL](#sql)
     - [Smartphone Apps](#smartphone-apps)
       - [Android](#android)
       - [iOS](#ios)
