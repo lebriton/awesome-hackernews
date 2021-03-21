@@ -19,6 +19,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Clients](#clients)
     - [CLI](#cli)
     - [Desktop](#desktop)
+    - [Emacs](#emacs)
     - [Smartphone Apps](#smartphone-apps)
       - [Android](#android)
       - [iOS](#ios)
@@ -51,6 +52,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [Hacker Menu](https://hackermenu.io) - Read Hacker News from your macOS menubar. ([Source Code](https://github.com/owenthereal/hacker-menu)) `MIT`
 - [HackerTray](https://github.com/captn3m0/hackertray) - Read Hacker News from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
+
+### Emacs
+
+- [Emacs hnreader](https://github.com/thanhvg/emacs-hnreader) - Read Hacker News inside Emacs. `no license`
 
 ### Smartphone Apps
 
