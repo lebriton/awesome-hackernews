@@ -1,6 +1,8 @@
-name: Pull request
+name: Lint the awesome list
 
 on:
+  push:
+    branches: [ main ]
   pull_request:
     branches: [ main ]
     types:
