@@ -1,14 +1,14 @@
 Thank you for your contribution to the awesome-hackernews repository. :thumbsup:<br>
 Before submitting this PR, please **make sure the following conditions are met** (**please tick the relevant boxes**):
 
-- [ ] The pull request concerns only one project<sup>1</sup>.
-- [ ] This project is classified as [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
-- [ ] The pull request title is "Add &lt;xxx&gt; to &lt;yyy&gt;", which means adding project &lt;xxx&gt; to section &lt;yyy&gt;.<sup>2</sup>
+- [ ] ⅰ. The pull request concerns only one project<sup>1</sup>.
+- [ ] ⅱ. This project is classified as [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+- [ ] ⅲ. The pull request title is "Add &lt;xxx&gt; to &lt;yyy&gt;", which means adding project &lt;xxx&gt; to section &lt;yyy&gt;.<sup>2</sup>
   
   Examples:
   - "Add My Project to Embeddables"
   - "Add My Project to Libraries/Python", for nested sections
-- [ ] Your addition satisfies one of the following formats<sup>3</sup>:
+- [ ] ⅳ. Your addition satisfies one of the following formats<sup>3</sup>:
   - If the project has a homepage (different from where the source code is hosted):
     ```
     - [Name](http://homepage/) - Short description. ([Source Code](http://url.of/source/code)) `License`
@@ -23,8 +23,8 @@ Before submitting this PR, please **make sure the following conditions are met**
   - Keep it short
   - End with '.'
 
-- [ ] Your addition is inserted in alphabetical order in the list (case-insensitive).
-- [ ] You have searched the repository for any relevant issues or PRs, including closed ones.
+- [ ] ⅴ. Your addition is inserted in alphabetical order in the list (case-insensitive).
+- [ ] ⅵ. You have searched the repository for any relevant issues or PRs, including closed ones.
 
 **If you have any questions or would like to provide more information regarding your PR, please use the comments section below.**
 
