@@ -9,7 +9,7 @@ read -p "Project name: " name
 $has_homepage && message="Homepage URL: " || message="Source code URL: "
 read -p "$message" main_url
 
-read -p "Description (keep it short, end with '.'): " description
+read -p "Description (avoid redundancy, keep it short, end with '.'): " description
 $has_homepage && read -p "Source code URL: " source_code_url
 read -p "License: " license
 
