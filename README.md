@@ -71,6 +71,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ## Feeds
 
 - [Hacker News RSS](https://hnrss.github.io/) - Custom, realtime RSS feeds for Hacker News. ([Source Code](https://github.com/hnrss/hnrss)) `no license`
+- [hnapp](http://hnapp.com/) - Faceted search engine, RSS & JSON feeds. ([Source Code](https://github.com/raquo/hnapp)) `MIT`
 
 ## Libraries
 
