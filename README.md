@@ -23,6 +23,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
     - [Smartphone Apps](#smartphone-apps)
       - [Android](#android)
       - [iOS](#ios)
+    - [Vim](#vim)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
@@ -65,6 +66,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 #### iOS
 
 - [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
+
+### Vim
+
+- [vim-hackernews](https://www.vim.org/scripts/script.php?script_id=5108) - Browse Hacker News in Vim. ([Source Code](https://github.com/guidealexis/vim-hackernews)) `MIT`
 
 ## Embeddables
 
