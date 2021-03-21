@@ -8,17 +8,15 @@ Before submitting this PR, please **make sure the following conditions are met**
   Examples:
   - "Add My Project to Embeddables"
   - "Add My Project to Libraries/Python", for nested sections
-- [ ] Your addition satisfy the following formatting<sup>3</sup>:
-
-  ```
-  - [Name](http://homepage/) - Short description. ([Source Code](http://url.of/source/code)) `License`
-  ```
-
-  If the project does not have a homepage, use the following format<sup>3</sup>:
-
-  ```
-  - [Name](http://url.of/source/code) - Short description. `License`
-  ```
+- [ ] Your addition satisfies one of the following formats<sup>3</sup>:
+  - If the project has a homepage (different from where the source code is hosted):
+    ```
+    - [Name](http://homepage/) - Short description. ([Source Code](http://url.of/source/code)) `License`
+    ```
+  - Else:
+    ```
+    - [Name](http://url.of/source/code) - Short description. `License`
+    ```
 
   Guidelines about the description:
   - Avoid redundancy
