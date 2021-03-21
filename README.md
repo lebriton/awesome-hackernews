@@ -84,6 +84,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Chrome
 
+- [Hacker News - Show Links](https://chrome.google.com/webstore/detail/hacker-news-show-links/phckhodapplnokiepnaneoglleghgpfi) - Show comments that have links, and more. ([Source Code](https://github.com/boomeasy/hnlinks)) `no license`
 - [Hacker News Comment Highlighter](https://chrome.google.com/webstore/detail/hacker-news-comment-highl/acgehogfllndeafpieloojhdmpffbjnb) - Highlight unread comments in Hacker News threads. ([Source Code](https://github.com/jbergknoff/hn-comment-highlighter)) `MIT`
 - [Hacker News Comments Notifier Plugin](https://chrome.google.com/webstore/detail/hacker-news-comments-noti/fcdogcdfbjpnhcnflhdpcdfjmmiedebo) - Get notifications on articles subscribed. ([Source Code](https://github.com/binomads/hn-notification-plugin)) `MIT`
 - [Hackercut](https://chrome.google.com/webstore/detail/hacker-news-shortcut/dmiimkldokblocpmleogaeohkbffnobo) - Full keyboard navigation of Hacker News. ([Source Code](https://github.com/AsyncMoksha/hackercut)) `no license`
