@@ -47,6 +47,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ### Desktop
 
 - [Hacker Menu](https://hackermenu.io) - Read Hacker News from your macOS menubar. ([Source Code](https://github.com/owenthereal/hacker-menu)) `MIT`
+- [HackerTray](https://github.com/captn3m0/hackertray) - Read Hacker News from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
 
 ### SQL
