@@ -1,7 +1,7 @@
 # Awesome-Hackernews
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![lint workflow](https://github.com/github/bminusl/awesome-hackernews/workflows/lint.yml/badge.svg)
+![lint workflow](https://github.com/bminusl/awesome-hackernews/actions/workflows/lint.yml/badge.svg)
 
 **[Hacker News](https://news.ycombinator.com/)** is a social news website focusing on computer technologies, hacking and startups. It promotes any content likely to "gratify the intellectual curiosity" of readers.
 
