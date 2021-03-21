@@ -19,10 +19,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Clients](#clients)
     - [CLI](#cli)
     - [Desktop](#desktop)
-    - [SQL](#sql)
     - [Smartphone Apps](#smartphone-apps)
       - [Android](#android)
       - [iOS](#ios)
+    - [SQL](#sql)
     - [Vim](#vim)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
@@ -52,10 +52,6 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [HackerTray](https://github.com/captn3m0/hackertray) - Read Hacker News from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read Hacker News from the desktop. `GPL-3.0`
 
-### SQL
-
-- [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query Hacker News using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
-
 ### Smartphone Apps
 
 #### Android
@@ -66,6 +62,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 #### iOS
 
 - [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
+
+### SQL
+
+- [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query Hacker News using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
 
 ### Vim
 
