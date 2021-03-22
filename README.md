@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" src="awesome-hackernews.png">
+</p>
+
 # Awesome-Hackernews
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
