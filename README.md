@@ -61,8 +61,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 #### Android
 
-- [Hacker News - Show Links](https://chrome.google.com/webstore/detail/hacker-news-show-links/phckhodapplnokiepnaneoglleghgpfi) - Show comments that have links, and more. ([Source Code](https://github.com/boomeasy/hnlinks)) `no license`
 - [HackerWeb](https://play.google.com/store/apps/details?id=cheeaun.hackerweb) - A read-only Hacker News client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
+- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) - A material-seign reader. ([Source Code](https://github.com/hidroh/materialistic)) `Apache-2.0`
 
 #### iOS
 
