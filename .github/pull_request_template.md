@@ -36,6 +36,6 @@ Before submitting this PR, please **make sure the following conditions are met**
 
 ---
 
-A custom linter is automatically invoked via GitHub actions. If any errors are found, be sure to correct them.
+A [custom linter](https://github.com/bminusl/awesome-hackernews/blob/main/scripts/lint.py) is automatically invoked via GitHub actions. If any errors are found, be sure to correct them.
 
 **⚠️ No review will be done on the PR as long as it contains errors found by the linter. ⚠️**
