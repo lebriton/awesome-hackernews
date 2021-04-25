@@ -21,7 +21,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 - List
   - [Clients](#clients)
-    - [CLI & TUI](#cli)
+    - [CLI & TUI](#cli--tui)
     - [Desktop](#desktop)
     - [Emacs](#emacs)
     - [Smartphone Apps](#smartphone-apps)
