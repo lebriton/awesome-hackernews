@@ -21,7 +21,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 - List
   - [Clients](#clients)
-    - [CLI](#cli)
+    - [CLI & TUI](#cli)
     - [Desktop](#desktop)
     - [Emacs](#emacs)
     - [Smartphone Apps](#smartphone-apps)
@@ -43,10 +43,11 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ## Clients
 
-### CLI
+### CLI & TUI
 
 - [CLHN](https://github.com/nichochar/CLHN) - See Hacker News stories. `no license`
 - [hackernews cli](https://github.com/mtharrison/hackernews) - Print out the latest posts on Hacker News to your terminal. `no license`
+- [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News. `MIT`
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor. `Apache-2.0`
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse Hacker News. `MIT`
 - [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
