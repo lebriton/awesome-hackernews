@@ -87,6 +87,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Web
 
+- [Hackernews Redesign](https://hn-redesign.vercel.app/) - A minimal client built with Next.js and TailwindCSS. ([Source Code](https://github.com/RocktimSaikia/hackernews-redesign)) `MIT`
 - [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/) - Hacker News front page in the style of a print newspaper. ([Source Code](https://github.com/wolfgang42/paper-hn)) `MIT`
 
 ## Embeddables
