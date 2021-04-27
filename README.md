@@ -33,6 +33,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Feeds](#feeds)
   - [Libraries](#libraries)
     - [Python](#python)
+  - [ReMarkable](#remarkable)
   - [Web Extensions](#web-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -97,6 +98,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ### Python
 
 - [asyncio-hn](https://github.com/itielshwartz/asyncio-hn) - Python (asyncio) wrapper for hackernews api. `MIT`
+
+## ReMarkable
+
+- [hackernews2remarkable](https://github.com/khanhas/hackernews2remarkable) - Fetch top articles from HackerNews, pack as EPUB right in your reMarkable device. `MIT`
 
 ## Web Extensions
 
