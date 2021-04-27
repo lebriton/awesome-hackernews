@@ -50,6 +50,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse Hacker News. `MIT`
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor. `Apache-2.0`
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse Hacker News. `MIT`
+- [HNTerm](https://hnterm.ggerganov.com/) - Hacker News in the terminal. ([Source Code](https://github.com/ggerganov/hnterm)) `MIT`
 - [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
 
 ### Desktop
