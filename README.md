@@ -52,6 +52,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse Hacker News. `MIT`
 - [HNTerm](https://hnterm.ggerganov.com/) - Hacker News in the terminal. ([Source Code](https://github.com/ggerganov/hnterm)) `MIT`
 - [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
+- [rich-hn](https://github.com/zaataylor/rich-hn) - A CLI reader app with rich formatting and good UX. `no license`
 
 ### Desktop
 
