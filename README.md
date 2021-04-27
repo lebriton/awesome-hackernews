@@ -29,6 +29,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
       - [iOS](#ios)
     - [SQL](#sql)
     - [Vim](#vim)
+    - [Web](#web)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
@@ -83,6 +84,10 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ### Vim
 
 - [vim-hackernews](https://www.vim.org/scripts/script.php?script_id=5108) - Browse Hacker News in Vim. ([Source Code](https://github.com/guidealexis/vim-hackernews)) `MIT`
+
+### Web
+
+- [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/) - Hacker News front page in the style of a print newspaper. ([Source Code](https://github.com/wolfgang42/paper-hn)) `MIT`
 
 ## Embeddables
 
