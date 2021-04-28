@@ -64,7 +64,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Emacs
 
-- [Emacs hnreader](https://github.com/thanhvg/emacs-hnreader) - Read HN inside Emacs. `no license`
+- [Emacs hnreader](https://github.com/thanhvg/emacs-hnreader) - Read HN inside Emacs. `GPL-3.0`
 
 ### Smartphone Apps
 
