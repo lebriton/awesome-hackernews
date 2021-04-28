@@ -30,11 +30,13 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
     - [SQL](#sql)
     - [Vim](#vim)
     - [Web](#web)
+  - [E-readers](#e-readers)
+    - [Kindle](#kindle)
+    - [ReMarkable](#remarkable)
   - [Embeddables](#embeddables)
   - [Feeds](#feeds)
   - [Libraries](#libraries)
     - [Python](#python)
-  - [ReMarkable](#remarkable)
   - [Web Extensions](#web-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -53,6 +55,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse HN like a haxor. `Apache-2.0`
 - [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - CLI to browse HN. `MIT`
 - [HNTerm](https://hnterm.ggerganov.com/) - HN in the terminal. ([Source Code](https://github.com/ggerganov/hnterm)) `MIT`
+- [lurker](https://github.com/wcarhart/lurker) - HN terminal client. `MIT`
 - [pyhn](https://github.com/toxinu/pyhn) - Hacker news command line client. `MIT`
 - [rich-hn](https://github.com/zaataylor/rich-hn) - A CLI reader app with rich formatting and good UX. `MIT`
 
@@ -91,6 +94,17 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [Hackernews Redesign](https://hn-redesign.vercel.app/) - A minimal client built with Next.js and TailwindCSS. ([Source Code](https://github.com/RocktimSaikia/hackernews-redesign)) `MIT`
 - [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/) - HN front page in the style of a print newspaper. ([Source Code](https://github.com/wolfgang42/paper-hn)) `MIT`
 
+## E-readers
+
+### Kindle
+
+- [hn-kindle](https://github.com/sprusr/hn-kindle) - Create an ebook of the day's HN articles and send it to your Kindle. `no license`
+
+### ReMarkable
+
+- [hackernews2remarkable](https://github.com/khanhas/hackernews2remarkable) - Fetch top articles, pack as EPUB right in your reMarkable device. `MIT`
+
+
 ## Embeddables
 
 - [YComments](https://ycomments.benwinding.com/) - Automatic links to discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
@@ -106,10 +120,6 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 - [asyncio-hn](https://github.com/itielshwartz/asyncio-hn) - Python (asyncio) wrapper for the HN api. `MIT`
 - [py-search-hn](https://github.com/nicolashahn/py-search-hn) - Search HN with Python. `MIT`
-
-## ReMarkable
-
-- [hackernews2remarkable](https://github.com/khanhas/hackernews2remarkable) - Fetch top articles, pack as EPUB right in your reMarkable device. `MIT`
 
 ## Web Extensions
 
