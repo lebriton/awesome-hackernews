@@ -47,7 +47,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### CLI & TUI
 
-- [CLHN](https://github.com/nichochar/CLHN) - See HN stories. `no license`
+- [CLHN](https://github.com/nichochar/CLHN) - See HN stories. `MIT`
 - [hackernews cli](https://github.com/mtharrison/hackernews) - Print out the latest posts to your terminal. `no license`
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) - A Terminal UI to browse HN. `MIT`
 - [haxor-news](https://github.com/donnemartin/haxor-news) - Browse HN like a haxor. `Apache-2.0`
