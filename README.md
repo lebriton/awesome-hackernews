@@ -107,6 +107,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ## Embeddables
 
+- [HackerBadge](https://github.com/AnandChowdhary/hackerbadge) - Embeddable badges for HN posts/launches. `MIT`
 - [YComments](https://ycomments.benwinding.com/) - Automatic links to discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
 
 ## Feeds
