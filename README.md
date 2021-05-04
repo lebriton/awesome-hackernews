@@ -138,12 +138,14 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [HN Special](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia) - A completely new visual style and a few new features. ([Source Code](https://github.com/gabrielecirulli/hn-special)) `MIT`
 - [HN Unread Comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - See unread comments. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- [Refined Hacker News](https://addons.mozilla.org/en-US/firefox/addon/refined-hacker-news/) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://chrome.google.com/webstore/detail/what-hacker-news-says/khgegkjchclhgpglloficdmdannlpmoi) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
 ### Firefox
 
 - [Hacker News Discussion Button](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-discussion-button/) - Privacy-preserving extension linking to HN discussion. ([Source Code](https://github.com/jstrieb/hackernews-button)) `GPL-3.0`
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
+- [Refined Hacker News](https://chrome.google.com/webstore/detail/refined-hacker-news/gcibdgjaladjjloeocimnijdgopejkfk) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
 ---
