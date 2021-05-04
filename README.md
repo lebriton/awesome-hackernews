@@ -49,6 +49,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### CLI & TUI
 
+- [CHN](https://github.com/ghosthamlet/CHN) - HN on Console with auto classifer and recommender in reactjs style code. `MIT`
 - [circumflex](https://github.com/bensadeh/circumflex) - It's HN in your terminal. `AGPL-3.0`
 - [CLHN](https://github.com/nichochar/CLHN) - See HN stories. `MIT`
 - [hackernews cli](https://github.com/mtharrison/hackernews) - Print out the latest posts to your terminal. `no license`
