@@ -66,6 +66,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [Hacker Menu](https://hackermenu.io) - Read HN from your macOS menubar. ([Source Code](https://github.com/owenthereal/hacker-menu)) `MIT`
 - [HackerTray](https://github.com/captn3m0/hackertray) - Read HN from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read HN from the desktop. `GPL-3.0`
+- [HNReader](https://github.com/mattrighetti/HNReaderApp) - HN client for macOS. `Apache-2.0/MIT`
 
 ### Emacs
 
