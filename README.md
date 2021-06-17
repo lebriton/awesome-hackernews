@@ -147,6 +147,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 - [Hacker News Discussion Button](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-discussion-button/) - Privacy-preserving extension linking to HN discussion. ([Source Code](https://github.com/jstrieb/hackernews-button)) `GPL-3.0`
 - [Hacker Reads for Goodreads](https://addons.mozilla.org/en-GB/firefox/addon/hacker-reads-for-goodreads/) - Add HN comments to books on Goodreads. ([Source Code](https://github.com/spookyuser/hacker-reads)) `MIT`
+- [hnlinks](https://addons.mozilla.org/en-US/firefox/addon/hnlinks/) - Adds a sidebar to threads which collects all the external links from comments and shows if a link has been previously posted in HN. ([Source Code](https://github.com/dit7ya/hnlinks)) `GPL-3.0`
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - [Refined Hacker News](https://addons.mozilla.org/en-US/firefox/addon/refined-hacker-news/) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
