@@ -39,4 +39,4 @@ Before submitting this PR, please **make sure the following conditions are met**
 A [custom linter](https://github.com/bminusl/awesome-hackernews/blob/main/scripts/lint.py) is automatically invoked through GitHub actions.
 You are responsible of correcting any errors that are detected.
 
-NB: If you are a first time contributor, you will need to wait for a maintainer to approve GitHub actions (a.k.a. the linter) to run.
+NB: If you are a first time contributor, you will have to wait for a maintainer to approve GitHub actions (a.k.a. the linter) to run.
