@@ -124,6 +124,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ### Python
 
 - [asyncio-hn](https://github.com/itielshwartz/asyncio-hn) - Python (asyncio) wrapper for the HN api. `MIT`
+- [haxor](https://github.com/avinassh/haxor) - Unofficial Python wrapper for official HN API. `MIT`
 - [py-search-hn](https://github.com/nicolashahn/py-search-hn) - Search HN with Python. `MIT`
 
 ## Web Extensions
