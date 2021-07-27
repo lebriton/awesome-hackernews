@@ -171,7 +171,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ## Uncategorized
 
-- [Comments.hn](https://comments.hn/) - Prepend `comments.hn?q=` to any website to see its Hacker News comments. ([Source Code](https://github.com/amaurym/comments.hn)) `MIT`
+- [Comments.hn](https://comments.hn/) - Prepend `comments.hn?q=` to any website to see its HN comments. ([Source Code](https://github.com/amaurym/comments.hn)) `MIT`
 
 ---
 
