@@ -52,6 +52,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### CLI & TUI
 
+**[`↑ back to top ↑`](#)**
+
 - [CHN](https://github.com/ghosthamlet/CHN) - HN on Console with auto classifer and recommender in reactjs style code. `MIT`
 - [circumflex](https://github.com/bensadeh/circumflex) - It's HN in your terminal. `AGPL-3.0`
 - [CLHN](https://github.com/nichochar/CLHN) - See HN stories. `MIT`
@@ -66,6 +68,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Desktop
 
+**[`↑ back to top ↑`](#)**
+
 - [Hacker Menu](https://hackermenu.io) - Read HN from your macOS menubar. ([Source Code](https://github.com/owenthereal/hacker-menu)) `MIT`
 - [HackerTray](https://github.com/captn3m0/hackertray) - Read HN from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read HN from the desktop. `GPL-3.0`
@@ -74,28 +78,40 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Emacs
 
+**[`↑ back to top ↑`](#)**
+
 - [Emacs hnreader](https://github.com/thanhvg/emacs-hnreader) - Read HN inside Emacs. `GPL-3.0`
 
 ### Smartphone Apps
 
 #### Android
 
+**[`↑ back to top ↑`](#)**
+
 - [HackerWeb](https://play.google.com/store/apps/details?id=cheeaun.hackerweb) - A read-only client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
 - [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) - A material-design reader. ([Source Code](https://github.com/hidroh/materialistic)) `Apache-2.0`
 
 #### iOS
 
+**[`↑ back to top ↑`](#)**
+
 - [HackerWeb](https://apps.apple.com/app/id1084209377) - A read-only client. ([Source Code](https://github.com/cheeaun/hackerweb)) `MIT`
 
 ### SQL
+
+**[`↑ back to top ↑`](#)**
 
 - [Steampipe](https://hub.steampipe.io/plugins/turbot/hackernews) - Query HN using SQL. ([Source Code](https://github.com/turbot/steampipe-plugin-hackernews)) `MPL-2.0`
 
 ### Vim
 
+**[`↑ back to top ↑`](#)**
+
 - [vim-hackernews](https://www.vim.org/scripts/script.php?script_id=5108) - Browse HN in Vim. ([Source Code](https://github.com/guidealexis/vim-hackernews)) `MIT`
 
 ### Web
+
+**[`↑ back to top ↑`](#)**
 
 - [Hacker Search](https://hiring.ben.church/) - Search through "Who is Hiring?" threads. ([Source Code](https://github.com/bechurch/hacker-hiring-hunt)) `no license`
 - [Hackernews Redesign](https://hn-redesign.vercel.app/) - A minimal client built with Next.js and TailwindCSS. ([Source Code](https://github.com/RocktimSaikia/hackernews-redesign)) `MIT`
@@ -106,19 +122,26 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### Kindle
 
+**[`↑ back to top ↑`](#)**
+
 - [hn-kindle](https://github.com/sprusr/hn-kindle) - Create an ebook of the day's HN articles and send it to your Kindle. `no license`
 
 ### ReMarkable
 
+**[`↑ back to top ↑`](#)**
+
 - [hackernews2remarkable](https://github.com/khanhas/hackernews2remarkable) - Fetch top articles, pack as EPUB right in your reMarkable device. `MIT`
 
-
 ## Embeddables
+
+**[`↑ back to top ↑`](#)**
 
 - [HackerBadge](https://github.com/AnandChowdhary/hackerbadge) - Embeddable badges for HN posts/launches. `MIT`
 - [YComments](https://ycomments.benwinding.com/) - Automatic links to discussions. ([Source Code](https://github.com/benwinding/ycomments)) `MIT`
 
 ## Feeds
+
+**[`↑ back to top ↑`](#)**
 
 - [Hacker News RSS](https://hnrss.github.io/) - Custom, realtime RSS feeds. ([Source Code](https://github.com/hnrss/hnrss)) `no license`
 - [hnapp](http://hnapp.com/) - Faceted search engine, RSS & JSON feeds. ([Source Code](https://github.com/raquo/hnapp)) `MIT`
@@ -126,6 +149,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 ## Libraries
 
 ### Python
+
+**[`↑ back to top ↑`](#)**
 
 - [asyncio-hn](https://github.com/itielshwartz/asyncio-hn) - Python (asyncio) wrapper for the HN api. `MIT`
 - [haxor](https://github.com/avinassh/haxor) - Unofficial Python wrapper for official HN API. `MIT`
@@ -135,12 +160,16 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 ### User Scripts
 
+**[`↑ back to top ↑`](#)**
+
 - [already-seen](https://github.com/ryanberckmans/already-seen) - Auto-hide HN or Reddit links after you've seen them once. `MIT`
 - [hackahackernews](https://github.com/raszpl/hackahackernews) - HN comment/viewed improvements. `GPL-3.0`
 
 ### Web Extensions
 
 #### Chrome
+
+**[`↑ back to top ↑`](#)**
 
 - [Hacker News - Show Links](https://chrome.google.com/webstore/detail/hacker-news-show-links/phckhodapplnokiepnaneoglleghgpfi) - Show comments that have links, and more. ([Source Code](https://github.com/boomeasy/hnlinks)) `no license`
 - [Hacker News Comment Highlighter](https://chrome.google.com/webstore/detail/hacker-news-comment-highl/acgehogfllndeafpieloojhdmpffbjnb) - Highlight unread comments in threads. ([Source Code](https://github.com/jbergknoff/hn-comment-highlighter)) `MIT`
@@ -160,6 +189,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 #### Firefox
 
+**[`↑ back to top ↑`](#)**
+
 - [Hacker News Discussion Button](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-discussion-button/) - Privacy-preserving extension linking to HN discussion. ([Source Code](https://github.com/jstrieb/hackernews-button)) `GPL-3.0`
 - [Hacker Reads for Goodreads](https://addons.mozilla.org/en-GB/firefox/addon/hacker-reads-for-goodreads/) - Add HN comments to books on Goodreads. ([Source Code](https://github.com/spookyuser/hacker-reads)) `MIT`
 - [hacker-news-reading-time](https://github.com/bencevans/hacker-news-reading-time) - Add a reading time metric to each HN story. `no license`
@@ -170,6 +201,8 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
 ## Uncategorized
+
+**[`↑ back to top ↑`](#)**
 
 - [Comments.hn](https://comments.hn/) - Prepend `comments.hn?q=` to any website to see its HN comments. ([Source Code](https://github.com/amaurym/comments.hn)) `MIT`
 

@@ -31,7 +31,7 @@ Before submitting this PR, please **make sure the following conditions are met**
 ---
 
 <sup>1</sup>: If you want to submit multiple projects, please open one PR per project.<br>
-<sup>2</sup>: If the project does not fit into an already existing section, i.e. a new one must be created, do not hesitate to create it. In this case, don't forget to update the TOC.<br>
+<sup>2</sup>: If the project does not fit into an already existing section, i.e. a new one must be created, do not hesitate to create it. In this case, don't forget to update the TOC and put the "`back to top`" link.<br>
 <sup>3</sup>: [`scripts/format_entry.sh`](https://github.com/bminusl/awesome-hackernews/blob/main/scripts/format_entry.sh) can be invoked to help you.
 
 ---
