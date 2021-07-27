@@ -1,6 +1,6 @@
 # Contributing
 
-## Add a new project to the list
+## Adding a new project to the list
 
 All instructions for adding a new project to the list are enumerated in [.github/pull_request_template.md](pull_request_template.md).
 
