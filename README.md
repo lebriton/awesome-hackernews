@@ -37,9 +37,12 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
   - [Feeds](#feeds)
   - [Libraries](#libraries)
     - [Python](#python)
-  - [Web Extensions](#web-extensions)
-    - [Chrome](#chrome)
-    - [Firefox](#firefox)
+  - [In Web Browsers](#in-web-browsers)
+    - [User Scripts](#user-scripts)
+    - [Web Extensions](#web-extensions)
+      - [Chrome](#chrome)
+      - [Firefox](#firefox)
+  - [Uncategorized](#uncategorized)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -67,6 +70,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [HackerTray](https://github.com/captn3m0/hackertray) - Read HN from your system tray in Linux. `MIT`
 - [HackUp](https://github.com/mdh34/hackup) - Read HN from the desktop. `GPL-3.0`
 - [HNReader](https://github.com/mattrighetti/HNReaderApp) - HN client for macOS. `Apache-2.0/MIT`
+- [toucHNews](https://github.com/mrmekon/toucHNews) - HN news feed from the Mac Touch Bar. `Apache-2.0`
 
 ### Emacs
 
@@ -127,31 +131,47 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [haxor](https://github.com/avinassh/haxor) - Unofficial Python wrapper for official HN API. `MIT`
 - [py-search-hn](https://github.com/nicolashahn/py-search-hn) - Search HN with Python. `MIT`
 
-## Web Extensions
+## In Web Browsers
 
-### Chrome
+### User Scripts
+
+- [already-seen](https://github.com/ryanberckmans/already-seen) - Auto-hide HN or Reddit links after you've seen them once. `MIT`
+- [hackahackernews](https://github.com/raszpl/hackahackernews) - HN comment/viewed improvements. `GPL-3.0`
+
+### Web Extensions
+
+#### Chrome
 
 - [Hacker News - Show Links](https://chrome.google.com/webstore/detail/hacker-news-show-links/phckhodapplnokiepnaneoglleghgpfi) - Show comments that have links, and more. ([Source Code](https://github.com/boomeasy/hnlinks)) `no license`
 - [Hacker News Comment Highlighter](https://chrome.google.com/webstore/detail/hacker-news-comment-highl/acgehogfllndeafpieloojhdmpffbjnb) - Highlight unread comments in threads. ([Source Code](https://github.com/jbergknoff/hn-comment-highlighter)) `MIT`
 - [Hacker News Comments Notifier Plugin](https://chrome.google.com/webstore/detail/hacker-news-comments-noti/fcdogcdfbjpnhcnflhdpcdfjmmiedebo) - Get notifications on articles subscribed. ([Source Code](https://github.com/binomads/hn-notification-plugin)) `MIT`
 - [Hacker News Shortcut](https://chrome.google.com/webstore/detail/hacker-news-shortcut/dmiimkldokblocpmleogaeohkbffnobo) - Full keyboard navigation. ([Source Code](https://github.com/AsyncMoksha/hackercut)) `no license`
 - [Hacker Reads for Goodreads](https://chrome.google.com/webstore/detail/hacker-reads-for-goodread/ohkekgnmihdgcfflheadklfihdaibdcb) - Add HN comments to books on Goodreads. ([Source Code](https://github.com/spookyuser/hacker-reads)) `MIT`
+- [hacker-news-reading-time](https://github.com/bencevans/hacker-news-reading-time) - Add a reading time metric to each HN story. `no license`
+- [HackerTagger](https://chrome.google.com/webstore/detail/hackertagger/geiililcplncieampkfliiilkajhdkkp) - Tag users on HN with useful metadata. ([Source Code](https://github.com/guzba/hackertagger)) `MIT`
 - [HN Favourite Users](https://chrome.google.com/webstore/detail/hn-favourite-users/hleiemhnepoghplnnhkhpnjeiaifnobo) - Highlights your favourite users. ([Source Code](https://github.com/janhancic/hn-favourite-users)) `MIT`
 - [HN Keyword Filter](https://chrome.google.com/webstore/detail/hn-keyword-filter/ooablmjjcdbdjhhjkaffpbjnanonjgnm) - Filter stories using a comma separated list. ([Source Code](https://github.com/ShamariFeaster/chrome-extension-hn-filter/tree/master)) `GPL-3.0`
 - [HN Special](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia) - A completely new visual style and a few new features. ([Source Code](https://github.com/gabrielecirulli/hn-special)) `MIT`
+- [HN Stories](https://github.com/bigyank/HN-Stories) - Sneak peak at HN. `no license`
 - [HN Unread Comments](https://chrome.google.com/webstore/detail/hn-unread-comments/fpndmkcfggkffpablcooicmihgcgalil) - See unread comments. ([Source Code](https://github.com/janhancic/hn-unread-comments)) `MIT`
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - [Refined Hacker News](https://chrome.google.com/webstore/detail/refined-hacker-news/gcibdgjaladjjloeocimnijdgopejkfk) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://chrome.google.com/webstore/detail/what-hacker-news-says/khgegkjchclhgpglloficdmdannlpmoi) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
 
-### Firefox
+#### Firefox
 
 - [Hacker News Discussion Button](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-discussion-button/) - Privacy-preserving extension linking to HN discussion. ([Source Code](https://github.com/jstrieb/hackernews-button)) `GPL-3.0`
 - [Hacker Reads for Goodreads](https://addons.mozilla.org/en-GB/firefox/addon/hacker-reads-for-goodreads/) - Add HN comments to books on Goodreads. ([Source Code](https://github.com/spookyuser/hacker-reads)) `MIT`
+- [hacker-news-reading-time](https://github.com/bencevans/hacker-news-reading-time) - Add a reading time metric to each HN story. `no license`
+- [HN Stories](https://addons.mozilla.org/en-US/firefox/addon/hn-stories/) - Sneak peak at HN. ([Source Code](https://github.com/bigyank/HN-Stories)) `no license`
 - [hnlinks](https://addons.mozilla.org/en-US/firefox/addon/hnlinks/) - Adds a sidebar to threads which collects all the external links from comments and shows if a link has been previously posted in HN. ([Source Code](https://github.com/dit7ya/hnlinks)) `GPL-3.0`
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - [Refined Hacker News](https://addons.mozilla.org/en-US/firefox/addon/refined-hacker-news/) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
+
+## Uncategorized
+
+- [Comments.hn](https://comments.hn/) - Prepend `comments.hn?q=` to any website to see its Hacker News comments. ([Source Code](https://github.com/amaurym/comments.hn)) `MIT`
 
 ---
 
