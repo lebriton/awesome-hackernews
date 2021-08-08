@@ -107,7 +107,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 
 **[`↑ back to top ↑`](#)**
 
-- [vim-hackernews](https://www.vim.org/scripts/script.php?script_id=5108) - Browse HN in Vim. ([Source Code](https://github.com/guidealexis/vim-hackernews)) `MIT`
+- [vim-hackernews](https://www.vim.org/scripts/script.php?script_id=5108) - Browse HN in Vim. ([Source Code](https://github.com/dansomething/vim-hackernews)) `MIT`
 
 ### Web
 
